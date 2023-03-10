@@ -19,7 +19,7 @@
 
 - A passionate Self-taught FrontEnd developer
 - Computer engineering student
-- Developer at the Venezuelan Supreme Court of Justice
+- Developer at Organización comercial belloso Cobeca
 
 
 <br><br>
@@ -62,6 +62,7 @@
 
     ![Git](https://img.shields.io/badge/GIT-E84D31?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   
 
@@ -71,7 +72,8 @@
 
     ![React.JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
     ![Next.JS](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-    ![GraphQL](https://img.shields.io/badge/GraphQL-e20098?style=for-the-badge&logo=graphql&logoColor=white)
+    ![C#](https://img.shields.io/badge/CS-621c72?style=for-the-badge&logo=csharp&logoColor=white)
+    ![.Net](https://img.shields.io/badge/ASP.NET-621c72?style=for-the-badge&logo=dotnet&logoColor=white)
     ![MongoDB](https://img.shields.io/badge/MongoDB-07ac4f?style=for-the-badge&logo=mongodb&logoColor=white)
 
 </p>
