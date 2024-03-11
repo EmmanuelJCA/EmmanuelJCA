@@ -33,26 +33,28 @@
 
 - **Front-End Development**:
 
+    ![React.JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+    ![Next.JS](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
     ![HTML5](https://img.shields.io/badge/HTML5-E44C30?style=for-the-badge&logo=html5&logoColor=white)
     ![CSS3](https://img.shields.io/badge/CSS3-404D59?style=for-the-badge&logo=CSS3&logoColor=white&color=02afef)
     ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-    ![Sass](https://img.shields.io/badge/Sass-C06190?style=for-the-badge&logo=sass&logoColor=white)
-    ![Bootstrap](https://img.shields.io/badge/Bootstrap-6E10EE?style=for-the-badge&logo=Bootstrap&logoColor=white)
+    ![MaterialUI](https://img.shields.io/badge/Material%20UI-007fff?style=for-the-badge&logo=mui&logoColor=white)
     ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-01B7D6?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <br>   
     
 - **Back-End Development**:
-
+  
+    ![TypeScript](https://img.shields.io/badge/TypeScript-2f74c0?style=for-the-badge&logo=typescript&logoColor=white)
     ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
     ![express](https://img.shields.io/badge/express-2f2f2f?style=for-the-badge&logo=express&logoColor=white)
-    ![Sequelize](https://img.shields.io/badge/Sequelize-54afe6?style=for-the-badge&logo=sequelize&logoColor=white)
-    ![Php](https://img.shields.io/badge/php-787CB4?style=for-the-badge&logo=php&logoColor=white)
+    ![nestjs](https://img.shields.io/badge/NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)
 
 <br>
 
-- **Database Development**:
+- **Database**:
 
+    ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-31648c?style=for-the-badge&logo=postgresql&logoColor=white)
     ![SQLServer](https://img.shields.io/badge/SQL%20Server-E44C30?style=for-the-badge&logo=microsoft%20sql%20server)
     ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
     
@@ -62,7 +64,7 @@
 
     ![Git](https://img.shields.io/badge/GIT-E84D31?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+    ![Azure](https://img.shields.io/badge/azure%20devops-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)   
 
@@ -70,11 +72,8 @@
 
 - **Learning**:
 
-    ![React.JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-    ![Next.JS](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
     ![C#](https://img.shields.io/badge/CS-621c72?style=for-the-badge&logo=csharp&logoColor=white)
-    ![.Net](https://img.shields.io/badge/ASP.NET-621c72?style=for-the-badge&logo=dotnet&logoColor=white)
-    ![MongoDB](https://img.shields.io/badge/MongoDB-07ac4f?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![.Net](https://img.shields.io/badge/.NET-621c72?style=for-the-badge&logo=dotnet&logoColor=white)
 
 </p>
 
