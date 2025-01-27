@@ -36,7 +36,6 @@
     ![Next.JS](https://img.shields.io/badge/Next.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
     ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular&logoColor=white)
     ![Astro](https://img.shields.io/badge/Astro-orange?style=for-the-badge&logo=astro&logoColor=white)
-    ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white)
     ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-01B7D6?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 <br>   
